@@ -410,7 +410,7 @@ implementation
 {$R *.fmx}
 const
 FIREBASE_URL = 'https://moverides-83015-default-rtdb.firebaseio.com';
-FIREBASE_KEY = 'AIzaSyAOnddhCKxtqobst_FU6OFrkH02WDKABN8';
+
 
 
 
