@@ -1,5 +1,5 @@
 # MoveRides-Mobile-App
-A prototype Android ride-hailing application developed using **Delphi 12 FireMonkey (FMX)** and **SQLite**.
+A working MVP Android ride-hailing application developed using **Delphi 12 FireMonkey (FMX)** and **SQLite**.
 
 ## About
 
